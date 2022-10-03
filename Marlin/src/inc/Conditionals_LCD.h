@@ -809,7 +809,7 @@
   #undef Z4_DRIVER_TYPE
   #undef Z_ENABLE_ON
   #undef DISABLE_Z
-  #undef INVERT_Z_DIR
+  #undef 
   #undef Z_HOME_DIR
   #undef Z_MIN_POS
   #undef Z_MAX_POS
